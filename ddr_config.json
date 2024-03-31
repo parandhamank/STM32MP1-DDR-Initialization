@@ -1,0 +1,104 @@
+{
+    "static_ddr_config": {
+      "info": {
+        "name": "DDR3-1066/888 bin G 1x4Gb 533MHz v1.45",
+        "speed": "0x821A0",
+        "size": "0x20000000"
+      },
+      "mc_registers": {
+        "MSTR": "0x41401",
+        "MRCTRL0": "0x10",
+        "MRCTRL1": "0x0",
+        "DERATEEN": "0x0",
+        "DERATEINT": "0x800000",
+        "PWRCTL": "0x0",
+        "PWRTMG": "0x40010",
+        "HWLPCTL": "0x0",
+        "RFSHCTL0": "0x210000",
+        "RFSHCTL3": "0x0",
+        "CRCPARCTL0": "0x0",
+        "ZQCTL0": "0xC2000040",
+        "DFITMG0": "0x2060105",
+        "DFITMG1": "0x202",
+        "DFILPCFG0": "0x7000000",
+        "DFIUPD0": "0xC0400003",
+        "DFIUPD1": "0x0",
+        "DFIUPD2": "0x0",
+        "DFIPHYMSTR": "0x0",
+        "ODTMAP": "0x1",
+        "DBG0": "0x0",
+        "DBG1": "0x0",
+        "DBGCMD": "0x0",
+        "POISONCFG": "0x0",
+        "PCCFG": "0x10"
+      },
+      "mc_timing": {
+        "RFSHTMG": "0x81008B",
+        "DRAMTMG0": "0x121B2414",
+        "DRAMTMG1": "0xA041C",
+        "DRAMTMG2": "0x608090F",
+        "DRAMTMG3": "0x50400C",
+        "DRAMTMG4": "0x8040608",
+        "DRAMTMG5": "0x6060403",
+        "DRAMTMG6": "0x2020002",
+        "DRAMTMG7": "0x202",
+        "DRAMTMG8": "0x1005",
+        "DRAMTMG14": "0xA0",
+        "ODTCFG": "0x600600"
+      },
+      "mc_map": {
+        "ADDRMAP1": "0x70707",
+        "ADDRMAP2": "0x0",
+        "ADDRMAP3": "0x1F000000",
+        "ADDRMAP4": "0x1F1F",
+        "ADDRMAP5": "0x6060606",
+        "ADDRMAP6": "0xF060606",
+        "ADDRMAP9": "0x0",
+        "ADDRMAP10": "0x0",
+        "ADDRMAP11": "0x0"
+      },
+      "mc_perf": {
+        "SCHED": "0xC01",
+        "SCHED1": "0x0",
+        "PERFHPR1": "0x1000001",
+        "PERFLPR1": "0x800200",
+        "PERFWR1": "0x800400",
+        "PCFGR_0": "0x10000",
+        "PCFGW_0": "0x0",
+        "PCFGQOS0_0": "0x2100C03",
+        "PCFGQOS1_0": "0x800100",
+        "PCFGWQOS0_0": "0x1100C03",
+        "PCFGWQOS1_0": "0x1000200",
+        "PCFGR_1": "0x10000",
+        "PCFGW_1": "0x0",
+        "PCFGQOS0_1": "0x2100C03",
+        "PCFGQOS1_1": "0x800040",
+        "PCFGWQOS0_1": "0x1100C03",
+        "PCFGWQOS1_1": "0x1000200"
+      },
+      "phy_reg": {
+        "PGCR": "0x1442E02",
+        "ACIOCR": "0x10400812",
+        "DXCCR": "0xC40",
+        "DSGCR": "0xF200011F",
+        "DCR": "0xB",
+        "ODTCR": "0x10000",
+        "ZQ0CR1": "0x38",
+        "DX0GCR": "0xCE81",
+        "DX1GCR": "0xCE81"
+      },
+      "phy_timing": {
+        "PTR0": "0x22AA5B",
+        "PTR1": "0x4841104",
+        "PTR2": "0x42DA068",
+        "DTPR0": "0x38D488D0",
+        "DTPR1": "0x98B00D8",
+        "DTPR2": "0x10023600",
+        "MR0": "0x840",
+        "MR1": "0x0",
+        "MR2": "0x208",
+        "MR3": "0x0"
+      }
+    }
+  }
+  
